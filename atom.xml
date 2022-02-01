@@ -3,11 +3,11 @@
   <title>XFish&#39;s Blog</title>
   
   <subtitle>Herbidog &amp;&amp; Carnicat</subtitle>
-  <link href="https://herbidog.cc/atom.xml" rel="self"/>
+  <link href="https://xfishalways.github.io/atom.xml" rel="self"/>
   
-  <link href="https://herbidog.cc/"/>
-  <updated>2022-01-28T16:00:06.424Z</updated>
-  <id>https://herbidog.cc/</id>
+  <link href="https://xfishalways.github.io/"/>
+  <updated>2022-02-01T15:03:39.562Z</updated>
+  <id>https://xfishalways.github.io/</id>
   
   <author>
     <name>Xinjue Gao</name>
@@ -17,32 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://herbidog.cc/2022/01/28/test/"/>
-    <id>https://herbidog.cc/2022/01/28/test/</id>
-    <published>2022-01-28T15:59:34.000Z</published>
-    <updated>2022-01-28T16:00:06.424Z</updated>
+    <title>博客搭建总结</title>
+    <link href="https://xfishalways.github.io/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/"/>
+    <id>https://xfishalways.github.io/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/</id>
+    <published>2022-01-31T04:40:33.000Z</published>
+    <updated>2022-02-01T15:03:39.562Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一条测试信息</p>]]></content>
+    <content type="html"><![CDATA[<p>2022.2.1 博客基本结构部署完成，各主体功能正常，许多细节仍待完善。</p><span id="more"></span><h2 id="做博客的目的？"><a href="#做博客的目的？" class="headerlink" title="做博客的目的？"></a>做博客的目的？</h2><p>入学没多久，就频繁地被推荐自己搭建一个博客，给自己留下一些东西，在未来会有用。和同学了解了一下后，最终决定做一个自己的博客，学期内没啥时间，于是就一直拖到现在。</p><p>作为网络空间安全专业的一名大一新生，一学期下来觉得自己要学额外的东西比想象的多很多，尤其是各方面很杂的内容，希望有一个自己管理的空间，做一些学习上的记录。我平时也是非常喜欢看橄榄球，还有就是自己下围棋和一些对围棋ai方面的研究，自己从小就常常看一些他人写的各种评论，比赛分析复盘和一些棋评之类的，我自己也想尝试尝试，以这样一个还不错的形式。未来大概的博客内容，就是由学习笔记、事件评论、比赛分析、生活记录这些内容组成吧。</p><h2 id="方案选取"><a href="#方案选取" class="headerlink" title="方案选取"></a>方案选取</h2><p>通过网上浏览各种博客搭建方案，因为嫌太麻烦放弃了涉及服务器的计划，根据个人需求选择做一个静态的网站，再综合我专业方面的考虑，最终选择了hexo+github。</p><h2 id="整体感受"><a href="#整体感受" class="headerlink" title="整体感受"></a>整体感受</h2><h3 id="整体过程"><a href="#整体过程" class="headerlink" title="整体过程"></a>整体过程</h3><p>搭建的具体过程也就不说了，随便搜搜教程就问题不大，总体来说大概就是用git和node去配hexo，再将本地和github上的repository连接，写博客就是用hexo的命令创建本地markdown文件，编写文件后再用命令部署上去。</p><h3 id="跳进去的坑们"><a href="#跳进去的坑们" class="headerlink" title="跳进去的坑们"></a>跳进去的坑们</h3><ul><li>hexo有很多主题，在网上搜的时候会有许多推荐，有不少花里胡哨的好看的theme，但如果不是想自己去学着做很多网站的功能，最好还是选一个比较知名&amp;开发比较完善的主题，我自己就是只看样子选了一个炫酷的主题alpha-dust，但什么功能没有，自己考虑过但又完全不会改java语言的文件，更不会自己新写，半知半懂的状态下搞这些直接痛苦面具，被活活气死，一通挣扎最后还是乖乖换上了next主题，并打算在完全熟悉以后倒腾倒腾美观的事r。</li></ul><p><img src="/source/images/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p><ul><li><p>不同theme间、theme(指我用的next)的不同版本间差异不小，搜教程的时候一定要注意，教程里这些东西没写清楚的就赶快溜，不要尝试用它了，可以通过发布的时间来初步判断。</p></li><li><p>使用hexo命令之前一定要记得用<code>hexo clean</code>来清除public文件夹中之前生成的静态网站文件，避免意外将并不想要的内容部署到网站上。</p></li><li><p>如果想试试效果，用<code>hexo g</code>+<code>hexo s</code>即可，<strong>不用部署</strong>。</p></li><li><p>自己有初步想法但不能很快完成的博客文章，创建最好是用<code>hexo new draft</code>来<strong>创建草稿</strong>，草稿在<code>hexo g</code>时不会被生成，存在/source/_drafts里，可以避免未完成期间新写的文章需要部署时无法单独部署的问题，草稿可以通过<code>hexo publish</code>移到post里。</p></li></ul><h3 id="关于域名"><a href="#关于域名" class="headerlink" title="关于域名"></a>关于域名</h3><p>由于我用的这个方案的博客都是username.github.io，但我想有一个自己的域名，方法也很简单自己去阿里云或者腾讯云注册一个域名，然后解析一下，再在github repository的setting中左侧一栏pages的custom domain中填入自己的域名就好了，如图👇</p><p><img src="/images/dns1.png" alt="域名解析"></p><p><img src="/images/dns2.png" alt="github设置"></p><p>这样博客的地址就变成新注册的域名le👌</p><h2 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h2><p>不算很恶心，花了两天左右的时间大概完成吧，剩下的就是自己个性化的设置le，慢慢来就好啦，这个博客搭建的方案还是挺满意的，不难也还算有参与感，用来写文章的markdown语言也很简单，最后自己的网站成功打开的那一下真的挺有成就感的，后续优化的空间也不小，希望自己能不断调整&amp;坚持更新呀✌️</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;这是一条测试信息&lt;/p&gt;
-</summary>
-      
+    <summary type="html">&lt;p&gt;2022.2.1 博客基本结构部署完成，各主体功能正常，许多细节仍待完善。&lt;/p&gt;</summary>
     
     
     
+    <category term="Summary📃" scheme="https://xfishalways.github.io/categories/Summary%F0%9F%93%83/"/>
     
-    <category term="None" scheme="https://herbidog.cc/tags/None/"/>
+    
+    <category term="Life📝" scheme="https://xfishalways.github.io/tags/Life%F0%9F%93%9D/"/>
     
   </entry>
   
   <entry>
     <title>Here we go!</title>
-    <link href="https://herbidog.cc/2022/01/28/Here-we-go/"/>
-    <id>https://herbidog.cc/2022/01/28/Here-we-go/</id>
+    <link href="https://xfishalways.github.io/2022/01/28/Here-we-go/"/>
+    <id>https://xfishalways.github.io/2022/01/28/Here-we-go/</id>
     <published>2022-01-28T15:19:30.000Z</published>
     <updated>2022-01-28T15:22:37.598Z</updated>
     
@@ -63,18 +61,15 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://herbidog.cc/2022/01/28/hello-world/"/>
-    <id>https://herbidog.cc/2022/01/28/hello-world/</id>
+    <link href="https://xfishalways.github.io/2022/01/28/hello-world/"/>
+    <id>https://xfishalways.github.io/2022/01/28/hello-world/</id>
     <published>2022-01-28T13:51:18.603Z</published>
-    <updated>2022-01-28T09:30:39.351Z</updated>
+    <updated>2022-02-01T15:02:02.602Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     
