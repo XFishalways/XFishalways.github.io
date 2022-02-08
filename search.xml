@@ -40,7 +40,7 @@
 <h3 id="跳进去的坑们"><a href="#跳进去的坑们" class="headerlink" title="跳进去的坑们"></a>跳进去的坑们</h3><ul>
 <li>hexo有很多主题，在网上搜的时候会有许多推荐，有不少花里胡哨的好看的theme，但如果不是想自己去学着做很多网站的功能，最好还是选一个比较知名&amp;开发比较完善的主题，我自己就是只看样子选了一个炫酷的主题alpha-dust，但什么功能没有，自己考虑过但又完全不会改java语言的文件，更不会自己新写，半知半懂的状态下搞这些直接痛苦面具，被活活气死，一通挣扎最后还是乖乖换上了next主题，并打算在完全熟悉以后倒腾倒腾美观的事r。</li>
 </ul>
-<p><img src="/source/images/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p>
+<p><img src="/images/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p>
 <ul>
 <li><p>不同theme间、theme(指我用的next)的不同版本间差异不小，搜教程的时候一定要注意，教程里这些东西没写清楚的就赶快溜，不要尝试用它了，可以通过发布的时间来初步判断。</p>
 </li>
