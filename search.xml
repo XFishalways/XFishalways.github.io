@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Here we go!</title>
+    <url>/2022/01/28/Here-we-go/</url>
+    <content><![CDATA[<p>Herbidog的第一条博客</p>
+<p>欢迎光临</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/01/28/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -21,11 +28,31 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Here we go!</title>
-    <url>/2022/01/28/Here-we-go/</url>
-    <content><![CDATA[<p>Herbidog的第一条博客</p>
-<p>欢迎光临</p>
+    <title>“退役归来”的业余选手聊聊围棋AI</title>
+    <url>/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</url>
+    <content><![CDATA[<p>从小学开始正式接触围棋，从每周上课到周末去道场练一整天，再到每个假期去集训一个月，我也算是全心投入地学了四五年，六年级打上业余5段，初中时不再学棋，平时只有在校队打比赛，初三后也就不再下棋。</p>
+<span id="more"></span>
+
+<h2 id="学棋方法的变化"><a href="#学棋方法的变化" class="headerlink" title="学棋方法的变化"></a>学棋方法的变化</h2><p>那些年的学棋，简单总结一下就是初期涨棋主要靠讲解和做题提升计算力，其次是指导棋和复盘增强实战能力，后期主要靠复盘改掉自己的坏习惯，纠细节，再去打打谱，培养大局观，更多地自己去感受，了解自己的能力，逐渐形成并完善自己的风格。</p>
+<p>在有了AI以后，就可以将计算力和大局观融为一体，一起学习，更方便也更直观的学习。</p>
+<h2 id="个人对于AI的理解和使用推荐"><a href="#个人对于AI的理解和使用推荐" class="headerlink" title="个人对于AI的理解和使用推荐"></a>个人对于AI的理解和使用推荐</h2><p>上了大学后开始决定重拾围棋，由于我这些年没碰棋正好是跳过了AI的发展阶段，回来以后发现好多定式和默认的定型全都变化很大，尤其是点角这个东西，很多我脑子里默认的观念都被AI推翻，在挣扎了很久之后，开始看一些职业选手的解读视频，我自己觉得有收获，但很不喜欢这种灌输式的学习，于是着手自己用AI学习。</p>
+<p>在几个比较热门的AI里我选择的是<strong>katago</strong>，是一个开源的免费围棋AI，在<strong>github</strong>上有各种版本而且一直在更新，不像leela已经停止更新维护，又避免了像星阵、绝艺等AI高昂的费用。唯一的缺点就是有点r麻烦，要自己配置权重，以及弄GUI等，但对于我这个网安专业的学生也能够搞好，而且确实性能很不错，一般电脑也完全能跑动，并不需要独显。下图是其中几个主流AI，我还是比较推荐katago。</p>
+<p><img src="https://pic3.zhimg.com/v2-a11f7367f34f930fd4023027eeb25d92_b.jpg" alt="各围棋AI对比"></p>
+<p>个人认为AI最大的优势就在于其广阔的视野，它是基于胜率的，所以会给出一些强行争先手的变化甚至是直接脱先的下法，而不是盯死这个局部的最优解，这是我们自己复盘计算完全无法做到的，能够让我们少走弯路，</p>
+<p>平时我主要用AI<strong>复盘</strong>，找出自己的恶手，弄懂当时没分析清楚的变化，并特别关注AI对于大局观的理解。和AI下棋我个人是不太推荐的，AI棋力过强，即使调整过了也会跟人有很大区别，下棋很不舒服，更重要的是少了一些下棋的乐趣，这点我在下面也会细聊。</p>
+<h2 id="个人对于AI的存疑"><a href="#个人对于AI的存疑" class="headerlink" title="个人对于AI的存疑"></a>个人对于AI的存疑</h2><h3 id="AI数子？"><a href="#AI数子？" class="headerlink" title="AI数子？"></a>AI数子？</h3><p>有的地区也开始推广段位赛使用AI数子。官方是这么说的：</p>
+<p>“使用AI技术省去了大量评判胜负的时间，特别是像基层这种大规模、快节奏、高强度的比赛，裁判可以专心把精力用在解决赛场纠纷和技术性问题上。”</p>
+<p>这点确实没问题，但这是对于高段位的来说没问题，高段位的下完棋基本已经都清楚胜负了，数子只是走个过程。而对于低段的人，数子是一个极其紧张刺激的过程，我觉得也是比赛的一部分，很有必要保留，我自己至少以前是很喜欢这个过程的。</p>
+<h3 id="AI定级？"><a href="#AI定级？" class="headerlink" title="AI定级？"></a>AI定级？</h3><p>前些天看到新闻，有的地区发展了AI定级赛，和电脑下棋来定级，这本身我觉得是没问题的，还在“级”阶段的初学者如果对弈基本就是群魔乱舞，通过AI来判定是很方便也很有说服力的。可有人竟然说之后的升段也可以这样做，让我不禁怀疑他们下没下过棋。围棋是一项竞技运动，不是单纯计算力的测试，而是多方面的能力的考验，是对心态的磨练，你面对的每个对手都独一无二，棋风迥异，如何应对他们，如何胜利，这都是与电脑下棋无法获得的。</p>
+<h3 id="迷信与AI下棋？"><a href="#迷信与AI下棋？" class="headerlink" title="迷信与AI下棋？"></a>迷信与AI下棋？</h3><p>与AI下棋能让人涨棋，但其本身失去了围棋的一大乐趣，就是与对手的互动。下棋的时候我们是能看到对手的眼神的，比如我算到了对手有一个失误，但他没看出来，或者说我正在计算一个对方的漏洞从而偷鸡，这种情况下我是不能直盯着棋盘的那一部分的，棋盘很大，盯着看就会让对手有所警觉，相反我也同样可以观察对手，甚至是利用这个骗对面吓唬对面。除此之外，落子速度，下棋的气势都会有影响，这些也是一个棋手风格的一部分，更是围棋中最吸引人的一部分。</p>
+<p>另外，下棋也一定要有自己的风格，只有在与人的实战中才能逐渐发展出来，AI一定只是一个工具而不是全部。</p>
 ]]></content>
+      <categories>
+        <category>Commentary👊</category>
+      </categories>
+      <tags>
+        <tag>Baduk♟️</tag>
+      </tags>
   </entry>
   <entry>
     <title>博客搭建总结</title>
