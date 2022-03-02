@@ -6,7 +6,7 @@
   <link href="https://herbidog.cc/atom.xml" rel="self"/>
   
   <link href="https://herbidog.cc/"/>
-  <updated>2022-02-12T15:26:09.487Z</updated>
+  <updated>2022-03-02T13:51:42.538Z</updated>
   <id>https://herbidog.cc/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Encrypt Test</title>
+    <link href="https://herbidog.cc/2022/03/02/Encrypt-Test/"/>
+    <id>https://herbidog.cc/2022/03/02/Encrypt-Test/</id>
+    <published>2022-03-02T13:26:26.000Z</published>
+    <updated>2022-03-02T13:51:42.538Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="33aaf4103103d9eb1ce098c4d2415ca1701ef941c1f1854f2366dd4d3b10a2c5">82c6bb7b15f71a959226146847d758784791de0c5af1bf16ff9a61d0c198c539966bd54b87361142cb9660aebe724faa8e567b1956d34da2061ad85fa9ae24f3</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+    <category term="Test🔐" scheme="https://herbidog.cc/tags/Test%F0%9F%94%90/"/>
+    
+  </entry>
   
   <entry>
     <title>“退役归来”的业余选手聊聊围棋AI</title>
