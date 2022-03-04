@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>28d Left to Unlock</title>
+    <url>/2022/03/04/28d-Left-to-Unlock/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="ohhhh noooo" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="f0d94d152ca7ec4bcf9369d6fe0910c2d4ad01c15154ea7a9b91ff5b8b448ebe">40df0109efed701bf972628f599f17773778c337e282e26f4fa37685a21a21a8614d0a906fcf1a2d561f21792043cbbc4190b886d89c9ef38e2b1cf6b56540cd3af40a626b41ed0ab761124d9747d646975176d66b4337e54902df8dc065dc9ea1eeae046f0f516fd62885750b4ff143187e3b8e8bb24e3a3112adb8e5f772daff09c4810731d7e6c2a02bb9693fa718f9d371a73c02e89df1c4336cb04ad7bb7ea850e1a5516ad45ee7a9ce09c9c1d5a58924075f02e580e88c60c5893f6914bb5970c292ce9f1f7d97325a4c230370ed7c53ada5ab759c0950b274549ddb2d00dac3e87d9f97ee1062fb23d883b723dddbff580bca1e9be87bfb3ae53624326a5d42b5f58601b9c6b9d2c755cb211eda58dbd77d02246c7ef1aacee4f77ee4a7bc2f2e4571f1d13ce89b6cca26dbb51274ad7558c95b710287ff0256f3b97a85aad5030975778f9c5bf1b1cd5c156c80b8480ac893406eeee1d8d530bb803298bd1f84bcf9a02b6a30c4475856395dfda008acfadd4bb07bfc605863177c093f6e37f8c4879514530c4e2ebddc7819da63453b8eff8148a73d22d290e11e72dc705c05e4d009348a9d1555e44f560fcf2bfb7d9e3fcf68965805f9cd04c18f98b5f3c70231c05086f375a18419787c92fa2c6758f5db67111cd08e5798be04f4eace7fcc6bd45793c59e8d900acbeae5d4b0037e992495f96e9f4bebd5496f4202f5009bf20358bb637798cf28f4f7c23154b4221cdabf9e2bd0bd7b018265ece58209203a9ab68bb442c00080d60b8c859abb80fd3fbd1416e7efd8933260bbc187651cfead600ca4398541d78e8b5ebad416ae92a7dc85e5e73d40fe64932463713539f3f52e9e295d3899d5b4a3aefd5c3d125ec3f6c14c917e1d110a0aa5f4bdc9f829aa1adb0e037c577244d8fb410ab843dc7f1b89b49924510affe31d9909630e43faab630c8d93a5c7366aca9d41db2ea23246cd5a85c9c8c7f4b9c685a66b48242b29902b89aab640c7711952e95a28e2b9c19cb8a9b719be9f4a119db82ea2270b4816d023faba0338636eeaf8c0e412a3a5f2be7078fa7915736001637a255709c51a54d2e52e579117a79297b9ba93bf68d3412d5fbc1abc1cfd87b8ea028f0b6e213f5c862bc98e96b8bd51d4c850baeb877955a2e41a9678f79e5894265155cee0ddc9ecdb78cd2d8a054ae08946ae07b7348f14aff3fc603e474f6b5eab882136b55daf9757aa85</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">Hey! Password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Flags🚩</category>
+      </categories>
+      <tags>
+        <tag>🐈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Encrypt Test</title>
     <url>/2022/03/02/Encrypt-Test/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="ohhhh noooo" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
   <script id="hbeData" type="hbeData" data-hmacdigest="33aaf4103103d9eb1ce098c4d2415ca1701ef941c1f1854f2366dd4d3b10a2c5">82c6bb7b15f71a959226146847d758784791de0c5af1bf16ff9a61d0c198c539966bd54b87361142cb9660aebe724faa8e567b1956d34da2061ad85fa9ae24f3</script>
   <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">Hey! Password is required here.</span>
       </label>
     </div>
   </div>
@@ -20,11 +42,31 @@
       </tags>
   </entry>
   <entry>
-    <title>Here we go!</title>
-    <url>/2022/01/28/Here-we-go/</url>
-    <content><![CDATA[<p>Herbidog的第一条博客</p>
-<p>欢迎光临</p>
+    <title>“退役归来”的业余选手聊聊围棋AI</title>
+    <url>/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</url>
+    <content><![CDATA[<p>从小学开始正式接触围棋，从每周上课到周末去道场练一整天，再到每个假期去集训一个月，我也算是全心投入地学了四五年，六年级打上业余5段，初中时不再学棋，平时只有在校队打比赛，初三后也就不再下棋。</p>
+<span id="more"></span>
+
+<h2 id="学棋方法的变化"><a href="#学棋方法的变化" class="headerlink" title="学棋方法的变化"></a>学棋方法的变化</h2><p>那些年的学棋，简单总结一下就是初期涨棋主要靠讲解和做题提升计算力，其次是指导棋和复盘增强实战能力，后期主要靠复盘改掉自己的坏习惯，纠细节，再去打打谱，培养大局观，更多地自己去感受，了解自己的能力，逐渐形成并完善自己的风格。</p>
+<p>在有了AI以后，就可以将计算力和大局观融为一体，一起学习，更方便也更直观的学习。</p>
+<h2 id="个人对于AI的理解和使用推荐"><a href="#个人对于AI的理解和使用推荐" class="headerlink" title="个人对于AI的理解和使用推荐"></a>个人对于AI的理解和使用推荐</h2><p>上了大学后开始决定重拾围棋，由于我这些年没碰棋正好是跳过了AI的发展阶段，回来以后发现好多定式和默认的定型全都变化很大，尤其是点角这个东西，很多我脑子里默认的观念都被AI推翻，在挣扎了很久之后，开始看一些职业选手的解读视频，我自己觉得有收获，但很不喜欢这种灌输式的学习，于是着手自己用AI学习。</p>
+<p>在几个比较热门的AI里我选择的是<strong>katago</strong>，是一个开源的免费围棋AI，在<strong>github</strong>上有各种版本而且一直在更新，不像leela已经停止更新维护，又避免了像星阵、绝艺等AI高昂的费用。唯一的缺点就是有点r麻烦，要自己配置权重，以及弄GUI等，但对于我这个网安专业的学生也能够搞好，而且确实性能很不错，一般电脑也完全能跑动，并不需要独显。下图是其中几个主流AI，我还是比较推荐katago。</p>
+<p><img src="https://pic3.zhimg.com/v2-a11f7367f34f930fd4023027eeb25d92_b.jpg" alt="各围棋AI对比"></p>
+<p>个人认为AI最大的优势就在于其广阔的视野，它是基于胜率的，所以会给出一些强行争先手的变化甚至是直接脱先的下法，而不是盯死这个局部的最优解，这是我们自己复盘计算完全无法做到的，能够让我们少走弯路，</p>
+<p>平时我主要用AI<strong>复盘</strong>，找出自己的恶手，弄懂当时没分析清楚的变化，并特别关注AI对于大局观的理解。和AI下棋我个人是不太推荐的，AI棋力过强，即使调整过了也会跟人有很大区别，下棋很不舒服，更重要的是少了一些下棋的乐趣，这点我在下面也会细聊。</p>
+<h2 id="个人对于AI的存疑"><a href="#个人对于AI的存疑" class="headerlink" title="个人对于AI的存疑"></a>个人对于AI的存疑</h2><h3 id="AI数子？"><a href="#AI数子？" class="headerlink" title="AI数子？"></a>AI数子？</h3><p>有的地区也开始推广段位赛使用AI数子。官方是这么说的：</p>
+<p>“使用AI技术省去了大量评判胜负的时间，特别是像基层这种大规模、快节奏、高强度的比赛，裁判可以专心把精力用在解决赛场纠纷和技术性问题上。”</p>
+<p>这点确实没问题，但这是对于高段位的来说没问题，高段位的下完棋基本已经都清楚胜负了，数子只是走个过程。而对于低段的人，数子是一个极其紧张刺激的过程，我觉得也是比赛的一部分，很有必要保留，我自己至少以前是很喜欢这个过程的。</p>
+<h3 id="AI定级？"><a href="#AI定级？" class="headerlink" title="AI定级？"></a>AI定级？</h3><p>前些天看到新闻，有的地区发展了AI定级赛，和电脑下棋来定级，这本身我觉得是没问题的，还在“级”阶段的初学者如果对弈基本就是群魔乱舞，通过AI来判定是很方便也很有说服力的。可有人竟然说之后的升段也可以这样做，让我不禁怀疑他们下没下过棋。围棋是一项竞技运动，不是单纯计算力的测试，而是多方面的能力的考验，是对心态的磨练，你面对的每个对手都独一无二，棋风迥异，如何应对他们，如何胜利，这都是与电脑下棋无法获得的。</p>
+<h3 id="迷信与AI下棋？"><a href="#迷信与AI下棋？" class="headerlink" title="迷信与AI下棋？"></a>迷信与AI下棋？</h3><p>与AI下棋能让人涨棋，但其本身失去了围棋的一大乐趣，就是与对手的互动。下棋的时候我们是能看到对手的眼神的，比如我算到了对手有一个失误，但他没看出来，或者说我正在计算一个对方的漏洞从而偷鸡，这种情况下我是不能直盯着棋盘的那一部分的，棋盘很大，盯着看就会让对手有所警觉，相反我也同样可以观察对手，甚至是利用这个骗对面吓唬对面。除此之外，落子速度，下棋的气势都会有影响，这些也是一个棋手风格的一部分，更是围棋中最吸引人的一部分。</p>
+<p>另外，下棋也一定要有自己的风格，只有在与人的实战中才能逐渐发展出来，AI一定只是一个工具而不是全部。</p>
 ]]></content>
+      <categories>
+        <category>Commentary👊</category>
+      </categories>
+      <tags>
+        <tag>Baduk♟️</tag>
+      </tags>
   </entry>
   <entry>
     <title>博客搭建总结</title>
@@ -64,30 +106,10 @@
       </tags>
   </entry>
   <entry>
-    <title>“退役归来”的业余选手聊聊围棋AI</title>
-    <url>/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</url>
-    <content><![CDATA[<p>从小学开始正式接触围棋，从每周上课到周末去道场练一整天，再到每个假期去集训一个月，我也算是全心投入地学了四五年，六年级打上业余5段，初中时不再学棋，平时只有在校队打比赛，初三后也就不再下棋。</p>
-<span id="more"></span>
-
-<h2 id="学棋方法的变化"><a href="#学棋方法的变化" class="headerlink" title="学棋方法的变化"></a>学棋方法的变化</h2><p>那些年的学棋，简单总结一下就是初期涨棋主要靠讲解和做题提升计算力，其次是指导棋和复盘增强实战能力，后期主要靠复盘改掉自己的坏习惯，纠细节，再去打打谱，培养大局观，更多地自己去感受，了解自己的能力，逐渐形成并完善自己的风格。</p>
-<p>在有了AI以后，就可以将计算力和大局观融为一体，一起学习，更方便也更直观的学习。</p>
-<h2 id="个人对于AI的理解和使用推荐"><a href="#个人对于AI的理解和使用推荐" class="headerlink" title="个人对于AI的理解和使用推荐"></a>个人对于AI的理解和使用推荐</h2><p>上了大学后开始决定重拾围棋，由于我这些年没碰棋正好是跳过了AI的发展阶段，回来以后发现好多定式和默认的定型全都变化很大，尤其是点角这个东西，很多我脑子里默认的观念都被AI推翻，在挣扎了很久之后，开始看一些职业选手的解读视频，我自己觉得有收获，但很不喜欢这种灌输式的学习，于是着手自己用AI学习。</p>
-<p>在几个比较热门的AI里我选择的是<strong>katago</strong>，是一个开源的免费围棋AI，在<strong>github</strong>上有各种版本而且一直在更新，不像leela已经停止更新维护，又避免了像星阵、绝艺等AI高昂的费用。唯一的缺点就是有点r麻烦，要自己配置权重，以及弄GUI等，但对于我这个网安专业的学生也能够搞好，而且确实性能很不错，一般电脑也完全能跑动，并不需要独显。下图是其中几个主流AI，我还是比较推荐katago。</p>
-<p><img src="https://pic3.zhimg.com/v2-a11f7367f34f930fd4023027eeb25d92_b.jpg" alt="各围棋AI对比"></p>
-<p>个人认为AI最大的优势就在于其广阔的视野，它是基于胜率的，所以会给出一些强行争先手的变化甚至是直接脱先的下法，而不是盯死这个局部的最优解，这是我们自己复盘计算完全无法做到的，能够让我们少走弯路，</p>
-<p>平时我主要用AI<strong>复盘</strong>，找出自己的恶手，弄懂当时没分析清楚的变化，并特别关注AI对于大局观的理解。和AI下棋我个人是不太推荐的，AI棋力过强，即使调整过了也会跟人有很大区别，下棋很不舒服，更重要的是少了一些下棋的乐趣，这点我在下面也会细聊。</p>
-<h2 id="个人对于AI的存疑"><a href="#个人对于AI的存疑" class="headerlink" title="个人对于AI的存疑"></a>个人对于AI的存疑</h2><h3 id="AI数子？"><a href="#AI数子？" class="headerlink" title="AI数子？"></a>AI数子？</h3><p>有的地区也开始推广段位赛使用AI数子。官方是这么说的：</p>
-<p>“使用AI技术省去了大量评判胜负的时间，特别是像基层这种大规模、快节奏、高强度的比赛，裁判可以专心把精力用在解决赛场纠纷和技术性问题上。”</p>
-<p>这点确实没问题，但这是对于高段位的来说没问题，高段位的下完棋基本已经都清楚胜负了，数子只是走个过程。而对于低段的人，数子是一个极其紧张刺激的过程，我觉得也是比赛的一部分，很有必要保留，我自己至少以前是很喜欢这个过程的。</p>
-<h3 id="AI定级？"><a href="#AI定级？" class="headerlink" title="AI定级？"></a>AI定级？</h3><p>前些天看到新闻，有的地区发展了AI定级赛，和电脑下棋来定级，这本身我觉得是没问题的，还在“级”阶段的初学者如果对弈基本就是群魔乱舞，通过AI来判定是很方便也很有说服力的。可有人竟然说之后的升段也可以这样做，让我不禁怀疑他们下没下过棋。围棋是一项竞技运动，不是单纯计算力的测试，而是多方面的能力的考验，是对心态的磨练，你面对的每个对手都独一无二，棋风迥异，如何应对他们，如何胜利，这都是与电脑下棋无法获得的。</p>
-<h3 id="迷信与AI下棋？"><a href="#迷信与AI下棋？" class="headerlink" title="迷信与AI下棋？"></a>迷信与AI下棋？</h3><p>与AI下棋能让人涨棋，但其本身失去了围棋的一大乐趣，就是与对手的互动。下棋的时候我们是能看到对手的眼神的，比如我算到了对手有一个失误，但他没看出来，或者说我正在计算一个对方的漏洞从而偷鸡，这种情况下我是不能直盯着棋盘的那一部分的，棋盘很大，盯着看就会让对手有所警觉，相反我也同样可以观察对手，甚至是利用这个骗对面吓唬对面。除此之外，落子速度，下棋的气势都会有影响，这些也是一个棋手风格的一部分，更是围棋中最吸引人的一部分。</p>
-<p>另外，下棋也一定要有自己的风格，只有在与人的实战中才能逐渐发展出来，AI一定只是一个工具而不是全部。</p>
+    <title>Here we go!</title>
+    <url>/2022/01/28/Here-we-go/</url>
+    <content><![CDATA[<p>Herbidog的第一条博客</p>
+<p>欢迎光临</p>
 ]]></content>
-      <categories>
-        <category>Commentary👊</category>
-      </categories>
-      <tags>
-        <tag>Baduk♟️</tag>
-      </tags>
   </entry>
 </search>
