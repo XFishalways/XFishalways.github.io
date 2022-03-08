@@ -110,13 +110,6 @@
 
   
   <url>
-    <loc>https://herbidog.cc/tags/%F0%9F%90%88/</loc>
-    <lastmod>2022-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://herbidog.cc/tags/Test%F0%9F%94%90/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -124,7 +117,7 @@
   </url>
   
   <url>
-    <loc>https://herbidog.cc/tags/Life%F0%9F%93%9D/</loc>
+    <loc>https://herbidog.cc/tags/%F0%9F%90%88/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -132,6 +125,13 @@
   
   <url>
     <loc>https://herbidog.cc/tags/Baduk%E2%99%9F%EF%B8%8F/</loc>
+    <lastmod>2022-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://herbidog.cc/tags/Life%F0%9F%93%9D/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -147,14 +147,14 @@
   </url>
   
   <url>
-    <loc>https://herbidog.cc/categories/Summary%F0%9F%93%83/</loc>
+    <loc>https://herbidog.cc/categories/Commentary%F0%9F%91%8A%F0%9F%8F%BB/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://herbidog.cc/categories/Commentary%F0%9F%91%8A%F0%9F%8F%BB/</loc>
+    <loc>https://herbidog.cc/categories/Summary%F0%9F%93%83/</loc>
     <lastmod>2022-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
