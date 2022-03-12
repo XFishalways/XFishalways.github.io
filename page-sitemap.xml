@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://herbidog.cc/</loc>
+        <loc>https://xfish.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>https://herbidog.cc/tags/</loc>
+        <loc>https://xfish.github.io/tags/</loc>
         <lastmod>2022-03-07T17:48:38.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
     
     
     <url>
-        <loc>https://herbidog.cc/categories/</loc>
+        <loc>https://xfish.github.io/categories/</loc>
         <lastmod>2022-03-07T17:48:18.683Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     
     <url>
-        <loc>https://herbidog.cc/about/</loc>
+        <loc>https://xfish.github.io/about/</loc>
         <lastmod>2022-03-07T14:08:20.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -37,7 +37,7 @@
     
     
     <url>
-        <loc>https://herbidog.cc/404/</loc>
+        <loc>https://xfish.github.io/404/</loc>
         <lastmod>2022-03-05T16:34:51.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
     
     
     <url>
-        <loc>https://herbidog.cc/guestbook/</loc>
+        <loc>https://xfish.github.io/guestbook/</loc>
         <lastmod>2022-03-05T16:31:13.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>

@@ -3,11 +3,11 @@
   <title>XFish&#39;s Blog</title>
   
   <subtitle>Herbidog &amp;&amp; Carnicat</subtitle>
-  <link href="https://herbidog.cc/atom.xml" rel="self"/>
+  <link href="https://xfish.github.io/atom.xml" rel="self"/>
   
-  <link href="https://herbidog.cc/"/>
+  <link href="https://xfish.github.io/"/>
   <updated>2022-03-08T05:31:27.856Z</updated>
-  <id>https://herbidog.cc/</id>
+  <id>https://xfish.github.io/</id>
   
   <author>
     <name>XFish</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>iPad使用总结</title>
-    <link href="https://herbidog.cc/2022/03/05/iPad%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/"/>
-    <id>https://herbidog.cc/2022/03/05/iPad%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</id>
+    <link href="https://xfish.github.io/2022/03/05/iPad%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/"/>
+    <id>https://xfish.github.io/2022/03/05/iPad%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</id>
     <published>2022-03-05T06:00:00.000Z</published>
     <updated>2022-03-08T05:31:27.856Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="Summary📃" scheme="https://herbidog.cc/categories/Summary%F0%9F%93%83/"/>
+    <category term="Summary📃" scheme="https://xfish.github.io/categories/Summary%F0%9F%93%83/"/>
     
     
-    <category term="Life📝" scheme="https://herbidog.cc/tags/Life%F0%9F%93%9D/"/>
+    <category term="Life📝" scheme="https://xfish.github.io/tags/Life%F0%9F%93%9D/"/>
     
   </entry>
   
   <entry>
     <title>28d Left to Unlock</title>
-    <link href="https://herbidog.cc/2022/03/04/28d-Left-to-Unlock/"/>
-    <id>https://herbidog.cc/2022/03/04/28d-Left-to-Unlock/</id>
+    <link href="https://xfish.github.io/2022/03/04/28d-Left-to-Unlock/"/>
+    <id>https://xfish.github.io/2022/03/04/28d-Left-to-Unlock/</id>
     <published>2022-03-03T21:20:21.000Z</published>
     <updated>2022-03-04T12:18:32.046Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="Flags🚩" scheme="https://herbidog.cc/categories/Flags%F0%9F%9A%A9/"/>
+    <category term="Flags🚩" scheme="https://xfish.github.io/categories/Flags%F0%9F%9A%A9/"/>
     
     
-    <category term="🐈" scheme="https://herbidog.cc/tags/%F0%9F%90%88/"/>
+    <category term="🐈" scheme="https://xfish.github.io/tags/%F0%9F%90%88/"/>
     
   </entry>
   
   <entry>
     <title>Encrypt Test</title>
-    <link href="https://herbidog.cc/2022/03/02/Encrypt-Test/"/>
-    <id>https://herbidog.cc/2022/03/02/Encrypt-Test/</id>
+    <link href="https://xfish.github.io/2022/03/02/Encrypt-Test/"/>
+    <id>https://xfish.github.io/2022/03/02/Encrypt-Test/</id>
     <published>2022-03-02T13:26:26.000Z</published>
     <updated>2022-03-02T13:51:42.538Z</updated>
     
@@ -73,14 +73,14 @@
     
     
     
-    <category term="Test🔐" scheme="https://herbidog.cc/tags/Test%F0%9F%94%90/"/>
+    <category term="Test🔐" scheme="https://xfish.github.io/tags/Test%F0%9F%94%90/"/>
     
   </entry>
   
   <entry>
     <title>“退役归来”的业余选手聊聊围棋AI</title>
-    <link href="https://herbidog.cc/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/"/>
-    <id>https://herbidog.cc/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</id>
+    <link href="https://xfish.github.io/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/"/>
+    <id>https://xfish.github.io/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</id>
     <published>2022-02-12T15:14:40.000Z</published>
     <updated>2022-03-07T14:06:12.695Z</updated>
     
@@ -91,17 +91,17 @@
     
     
     
-    <category term="Commentary👊🏻" scheme="https://herbidog.cc/categories/Commentary%F0%9F%91%8A%F0%9F%8F%BB/"/>
+    <category term="Commentary👊🏻" scheme="https://xfish.github.io/categories/Commentary%F0%9F%91%8A%F0%9F%8F%BB/"/>
     
     
-    <category term="Baduk♟️" scheme="https://herbidog.cc/tags/Baduk%E2%99%9F%EF%B8%8F/"/>
+    <category term="Baduk♟️" scheme="https://xfish.github.io/tags/Baduk%E2%99%9F%EF%B8%8F/"/>
     
   </entry>
   
   <entry>
     <title>博客搭建总结</title>
-    <link href="https://herbidog.cc/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/"/>
-    <id>https://herbidog.cc/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/</id>
+    <link href="https://xfish.github.io/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/"/>
+    <id>https://xfish.github.io/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/</id>
     <published>2022-01-31T04:40:33.000Z</published>
     <updated>2022-02-08T11:02:34.499Z</updated>
     
@@ -112,17 +112,17 @@
     
     
     
-    <category term="Summary📃" scheme="https://herbidog.cc/categories/Summary%F0%9F%93%83/"/>
+    <category term="Summary📃" scheme="https://xfish.github.io/categories/Summary%F0%9F%93%83/"/>
     
     
-    <category term="Life📝" scheme="https://herbidog.cc/tags/Life%F0%9F%93%9D/"/>
+    <category term="Life📝" scheme="https://xfish.github.io/tags/Life%F0%9F%93%9D/"/>
     
   </entry>
   
   <entry>
     <title>Here we go!</title>
-    <link href="https://herbidog.cc/2022/01/28/Here-we-go/"/>
-    <id>https://herbidog.cc/2022/01/28/Here-we-go/</id>
+    <link href="https://xfish.github.io/2022/01/28/Here-we-go/"/>
+    <id>https://xfish.github.io/2022/01/28/Here-we-go/</id>
     <published>2022-01-28T15:19:30.000Z</published>
     <updated>2022-01-28T15:22:37.598Z</updated>
     
