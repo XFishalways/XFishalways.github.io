@@ -23,6 +23,32 @@
       </tags>
   </entry>
   <entry>
+    <title>Encrypt Test</title>
+    <url>/2022/03/02/Encrypt-Test/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="舒服死!给爷爬!!" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="33aaf4103103d9eb1ce098c4d2415ca1701ef941c1f1854f2366dd4d3b10a2c5">82c6bb7b15f71a959226146847d758784791de0c5af1bf16ff9a61d0c198c539966bd54b87361142cb9660aebe724faa8e567b1956d34da2061ad85fa9ae24f3</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">Hey! Password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>Test🔐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Here we go!</title>
+    <url>/2022/01/28/Here-we-go/</url>
+    <content><![CDATA[<p>Herbidog的第一条博客</p>
+<p>欢迎光临</p>
+]]></content>
+  </entry>
+  <entry>
     <title>iPad使用总结</title>
     <url>/2022/03/05/iPad%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<p>寒假时决定买iPad，将平时的学习从沉重的一摞摞书和练习册全部转向由一个iPad、一个妙控键盘、一只Apple Pencil、一个三折式iPad套、一张可拆卸磁吸式类纸膜组成的“电子”系统。假期摸索适应，在新学期开学的两周内，也做出了一些调整，直到这个周末，算是成功地形成了自己的学习系统和生活的一个重要分支，下面我就来分享一下我以iPad为中心的学习系统。</p>
@@ -371,25 +397,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Encrypt Test</title>
-    <url>/2022/03/02/Encrypt-Test/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="舒服死!给爷爬!!" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="33aaf4103103d9eb1ce098c4d2415ca1701ef941c1f1854f2366dd4d3b10a2c5">82c6bb7b15f71a959226146847d758784791de0c5af1bf16ff9a61d0c198c539966bd54b87361142cb9660aebe724faa8e567b1956d34da2061ad85fa9ae24f3</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">Hey! Password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>Test🔐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>“退役归来”的业余选手聊聊围棋AI</title>
     <url>/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</url>
     <content><![CDATA[<p>从小学开始正式接触围棋，从每周上课到周末去道场练一整天，再到每个假期去集训一个月，我也算是全心投入地学了四五年，六年级打上业余5段，初中时不再学棋，平时只有在校队打比赛，初三后也就不再下棋。</p>
@@ -429,7 +436,7 @@
 <h3 id="跳进去的坑们"><a href="#跳进去的坑们" class="headerlink" title="跳进去的坑们"></a>跳进去的坑们</h3><ul>
 <li>hexo有很多主题，在网上搜的时候会有许多推荐，有不少花里胡哨的好看的theme，但如果不是想自己去学着做很多网站的功能，最好还是选一个比较知名&amp;开发比较完善的主题，我自己就是只看样子选了一个炫酷的主题alpha-dust，但什么功能没有，自己考虑过但又完全不会改java语言的文件，更不会自己新写，半知半懂的状态下搞这些直接痛苦面具，被活活气死，一通挣扎最后还是乖乖换上了next主题，并打算在完全熟悉以后倒腾倒腾美观的事r。</li>
 </ul>
-<p><img src="/images/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p>
 <ul>
 <li><p>不同theme间、theme(指我用的next)的不同版本间差异不小，搜教程的时候一定要注意，教程里这些东西没写清楚的就赶快溜，不要尝试用它了，可以通过发布的时间来初步判断。</p>
 </li>
@@ -441,8 +448,8 @@
 </li>
 </ul>
 <h3 id="关于域名"><a href="#关于域名" class="headerlink" title="关于域名"></a>关于域名</h3><p>由于我用的这个方案的博客都是username.github.io，但我想有一个自己的域名，方法也很简单自己去阿里云或者腾讯云注册一个域名，然后解析一下，再在github repository的setting中左侧一栏pages的custom domain中填入自己的域名就好了，如图👇</p>
-<p><img src="/images/dns1.png" alt="域名解析"></p>
-<p><img src="/images/dns2.png" alt="github设置"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/dns1.png" alt="域名解析"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/dns2.png" alt="github设置"></p>
 <p>这样博客的地址就变成新注册的域名le👌</p>
 <h2 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h2><p>不算很恶心，花了两天左右的时间大概完成吧，剩下的就是自己个性化的设置le，慢慢来就好啦，这个博客搭建的方案还是挺满意的，不难也还算有参与感，用来写文章的markdown语言也很简单，最后自己的网站成功打开的那一下真的挺有成就感的，后续优化的空间也不小，希望自己能不断调整&amp;坚持更新呀✌️</p>
 ]]></content>
@@ -452,12 +459,5 @@
       <tags>
         <tag>Life📝</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Here we go!</title>
-    <url>/2022/01/28/Here-we-go/</url>
-    <content><![CDATA[<p>Herbidog的第一条博客</p>
-<p>欢迎光临</p>
-]]></content>
   </entry>
 </search>
