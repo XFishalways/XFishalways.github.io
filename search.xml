@@ -23,6 +23,69 @@
       </tags>
   </entry>
   <entry>
+    <title>Here we go!</title>
+    <url>/2022/01/28/Here-we-go/</url>
+    <content><![CDATA[<p>Herbidog的第一条博客</p>
+<p>欢迎光临</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Encrypt Test</title>
+    <url>/2022/03/02/Encrypt-Test/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="舒服死!给爷爬!!" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="33aaf4103103d9eb1ce098c4d2415ca1701ef941c1f1854f2366dd4d3b10a2c5">82c6bb7b15f71a959226146847d758784791de0c5af1bf16ff9a61d0c198c539966bd54b87361142cb9660aebe724faa8e567b1956d34da2061ad85fa9ae24f3</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-up">
+      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-up">Hey! Password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>Test🔐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客搭建总结</title>
+    <url>/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>2022.2.1 博客基本结构部署完成，各主体功能正常，许多细节仍待完善。</p>
+<span id="more"></span>
+
+<h2 id="做博客的目的？"><a href="#做博客的目的？" class="headerlink" title="做博客的目的？"></a>做博客的目的？</h2><p>入学没多久，就频繁地被推荐自己搭建一个博客，给自己留下一些东西，在未来会有用。和同学了解了一下后，最终决定做一个自己的博客，学期内没啥时间，于是就一直拖到现在。</p>
+<p>作为网络空间安全专业的一名大一新生，一学期下来觉得自己要学额外的东西比想象的多很多，尤其是各方面很杂的内容，希望有一个自己管理的空间，做一些学习上的记录。我平时也是非常喜欢看橄榄球，还有就是自己下围棋和一些对围棋ai方面的研究，自己从小就常常看一些他人写的各种评论，比赛分析复盘和一些棋评之类的，我自己也想尝试尝试，以这样一个还不错的形式。未来大概的博客内容，就是由学习笔记、事件评论、比赛分析、生活记录这些内容组成吧。</p>
+<h2 id="方案选取"><a href="#方案选取" class="headerlink" title="方案选取"></a>方案选取</h2><p>通过网上浏览各种博客搭建方案，因为嫌太麻烦放弃了涉及服务器的计划，根据个人需求选择做一个静态的网站，再综合我专业方面的考虑，最终选择了hexo+github。</p>
+<h2 id="整体感受"><a href="#整体感受" class="headerlink" title="整体感受"></a>整体感受</h2><h3 id="整体过程"><a href="#整体过程" class="headerlink" title="整体过程"></a>整体过程</h3><p>搭建的具体过程也就不说了，随便搜搜教程就问题不大，总体来说大概就是用git和node去配hexo，再将本地和github上的repository连接，写博客就是用hexo的命令创建本地markdown文件，编写文件后再用命令部署上去。</p>
+<h3 id="跳进去的坑们"><a href="#跳进去的坑们" class="headerlink" title="跳进去的坑们"></a>跳进去的坑们</h3><ul>
+<li>hexo有很多主题，在网上搜的时候会有许多推荐，有不少花里胡哨的好看的theme，但如果不是想自己去学着做很多网站的功能，最好还是选一个比较知名&amp;开发比较完善的主题，我自己就是只看样子选了一个炫酷的主题alpha-dust，但什么功能没有，自己考虑过但又完全不会改java语言的文件，更不会自己新写，半知半懂的状态下搞这些直接痛苦面具，被活活气死，一通挣扎最后还是乖乖换上了next主题，并打算在完全熟悉以后倒腾倒腾美观的事r。</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p>
+<ul>
+<li><p>不同theme间、theme(指我用的next)的不同版本间差异不小，搜教程的时候一定要注意，教程里这些东西没写清楚的就赶快溜，不要尝试用它了，可以通过发布的时间来初步判断。</p>
+</li>
+<li><p>使用hexo命令之前一定要记得用<code>hexo clean</code>来清除public文件夹中之前生成的静态网站文件，避免意外将并不想要的内容部署到网站上。</p>
+</li>
+<li><p>如果想试试效果，用<code>hexo g</code>+<code>hexo s</code>即可，<strong>不用部署</strong>。</p>
+</li>
+<li><p>自己有初步想法但不能很快完成的博客文章，创建最好是用<code>hexo new draft</code>来<strong>创建草稿</strong>，草稿在<code>hexo g</code>时不会被生成，存在/source/_drafts里，可以避免未完成期间新写的文章需要部署时无法单独部署的问题，草稿可以通过<code>hexo publish</code>移到post里。</p>
+</li>
+</ul>
+<h3 id="关于域名"><a href="#关于域名" class="headerlink" title="关于域名"></a>关于域名</h3><p>由于我用的这个方案的博客都是username.github.io，但我想有一个自己的域名，方法也很简单自己去阿里云或者腾讯云注册一个域名，然后解析一下，再在github repository的setting中左侧一栏pages的custom domain中填入自己的域名就好了，如图👇</p>
+<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/dns1.png" alt="域名解析"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/dns2.png" alt="github设置"></p>
+<p>这样博客的地址就变成新注册的域名le👌</p>
+<h2 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h2><p>不算很恶心，花了两天左右的时间大概完成吧，剩下的就是自己个性化的设置le，慢慢来就好啦，这个博客搭建的方案还是挺满意的，不难也还算有参与感，用来写文章的markdown语言也很简单，最后自己的网站成功打开的那一下真的挺有成就感的，后续优化的空间也不小，希望自己能不断调整&amp;坚持更新呀✌️</p>
+]]></content>
+      <categories>
+        <category>Summary📃</category>
+      </categories>
+      <tags>
+        <tag>Life📝</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>iPad使用总结</title>
     <url>/2022/03/05/iPad%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<p>寒假时决定买iPad，将平时的学习从沉重的一摞摞书和练习册全部转向由一个iPad、一个妙控键盘、一只Apple Pencil、一个三折式iPad套、一张可拆卸磁吸式类纸膜组成的“电子”系统。假期摸索适应，在新学期开学的两周内，也做出了一些调整，直到这个周末，算是成功地形成了自己的学习系统和生活的一个重要分支，下面我就来分享一下我以iPad为中心的学习系统。</p>
@@ -371,25 +434,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Encrypt Test</title>
-    <url>/2022/03/02/Encrypt-Test/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="舒服死!给爷爬!!" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="33aaf4103103d9eb1ce098c4d2415ca1701ef941c1f1854f2366dd4d3b10a2c5">82c6bb7b15f71a959226146847d758784791de0c5af1bf16ff9a61d0c198c539966bd54b87361142cb9660aebe724faa8e567b1956d34da2061ad85fa9ae24f3</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-up">
-      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-up">Hey! Password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>Test🔐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>“退役归来”的业余选手聊聊围棋AI</title>
     <url>/2022/02/12/%E2%80%9C%E9%80%80%E5%BD%B9%E5%BD%92%E6%9D%A5%E2%80%9D%E7%9A%84%E4%B8%9A%E4%BD%99%E9%80%89%E6%89%8B%E8%81%8A%E8%81%8A%E5%9B%B4%E6%A3%8BAI/</url>
     <content><![CDATA[<p>从小学开始正式接触围棋，从每周上课到周末去道场练一整天，再到每个假期去集训一个月，我也算是全心投入地学了四五年，六年级打上业余5段，初中时不再学棋，平时只有在校队打比赛，初三后也就不再下棋。</p>
@@ -415,49 +459,5 @@
       <tags>
         <tag>Baduk♟️</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>博客搭建总结</title>
-    <url>/2022/01/31/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>2022.2.1 博客基本结构部署完成，各主体功能正常，许多细节仍待完善。</p>
-<span id="more"></span>
-
-<h2 id="做博客的目的？"><a href="#做博客的目的？" class="headerlink" title="做博客的目的？"></a>做博客的目的？</h2><p>入学没多久，就频繁地被推荐自己搭建一个博客，给自己留下一些东西，在未来会有用。和同学了解了一下后，最终决定做一个自己的博客，学期内没啥时间，于是就一直拖到现在。</p>
-<p>作为网络空间安全专业的一名大一新生，一学期下来觉得自己要学额外的东西比想象的多很多，尤其是各方面很杂的内容，希望有一个自己管理的空间，做一些学习上的记录。我平时也是非常喜欢看橄榄球，还有就是自己下围棋和一些对围棋ai方面的研究，自己从小就常常看一些他人写的各种评论，比赛分析复盘和一些棋评之类的，我自己也想尝试尝试，以这样一个还不错的形式。未来大概的博客内容，就是由学习笔记、事件评论、比赛分析、生活记录这些内容组成吧。</p>
-<h2 id="方案选取"><a href="#方案选取" class="headerlink" title="方案选取"></a>方案选取</h2><p>通过网上浏览各种博客搭建方案，因为嫌太麻烦放弃了涉及服务器的计划，根据个人需求选择做一个静态的网站，再综合我专业方面的考虑，最终选择了hexo+github。</p>
-<h2 id="整体感受"><a href="#整体感受" class="headerlink" title="整体感受"></a>整体感受</h2><h3 id="整体过程"><a href="#整体过程" class="headerlink" title="整体过程"></a>整体过程</h3><p>搭建的具体过程也就不说了，随便搜搜教程就问题不大，总体来说大概就是用git和node去配hexo，再将本地和github上的repository连接，写博客就是用hexo的命令创建本地markdown文件，编写文件后再用命令部署上去。</p>
-<h3 id="跳进去的坑们"><a href="#跳进去的坑们" class="headerlink" title="跳进去的坑们"></a>跳进去的坑们</h3><ul>
-<li>hexo有很多主题，在网上搜的时候会有许多推荐，有不少花里胡哨的好看的theme，但如果不是想自己去学着做很多网站的功能，最好还是选一个比较知名&amp;开发比较完善的主题，我自己就是只看样子选了一个炫酷的主题alpha-dust，但什么功能没有，自己考虑过但又完全不会改java语言的文件，更不会自己新写，半知半懂的状态下搞这些直接痛苦面具，被活活气死，一通挣扎最后还是乖乖换上了next主题，并打算在完全熟悉以后倒腾倒腾美观的事r。</li>
-</ul>
-<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/Alpha_Dust.jpg" alt="alpha-dust主题不行"></p>
-<ul>
-<li><p>不同theme间、theme(指我用的next)的不同版本间差异不小，搜教程的时候一定要注意，教程里这些东西没写清楚的就赶快溜，不要尝试用它了，可以通过发布的时间来初步判断。</p>
-</li>
-<li><p>使用hexo命令之前一定要记得用<code>hexo clean</code>来清除public文件夹中之前生成的静态网站文件，避免意外将并不想要的内容部署到网站上。</p>
-</li>
-<li><p>如果想试试效果，用<code>hexo g</code>+<code>hexo s</code>即可，<strong>不用部署</strong>。</p>
-</li>
-<li><p>自己有初步想法但不能很快完成的博客文章，创建最好是用<code>hexo new draft</code>来<strong>创建草稿</strong>，草稿在<code>hexo g</code>时不会被生成，存在/source/_drafts里，可以避免未完成期间新写的文章需要部署时无法单独部署的问题，草稿可以通过<code>hexo publish</code>移到post里。</p>
-</li>
-</ul>
-<h3 id="关于域名"><a href="#关于域名" class="headerlink" title="关于域名"></a>关于域名</h3><p>由于我用的这个方案的博客都是username.github.io，但我想有一个自己的域名，方法也很简单自己去阿里云或者腾讯云注册一个域名，然后解析一下，再在github repository的setting中左侧一栏pages的custom domain中填入自己的域名就好了，如图👇</p>
-<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/dns1.png" alt="域名解析"></p>
-<p><img src="https://cdn.jsdelivr.net/gh/XFishalways/ImgHosting/XFish'Pic/dns2.png" alt="github设置"></p>
-<p>这样博客的地址就变成新注册的域名le👌</p>
-<h2 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h2><p>不算很恶心，花了两天左右的时间大概完成吧，剩下的就是自己个性化的设置le，慢慢来就好啦，这个博客搭建的方案还是挺满意的，不难也还算有参与感，用来写文章的markdown语言也很简单，最后自己的网站成功打开的那一下真的挺有成就感的，后续优化的空间也不小，希望自己能不断调整&amp;坚持更新呀✌️</p>
-]]></content>
-      <categories>
-        <category>Summary📃</category>
-      </categories>
-      <tags>
-        <tag>Life📝</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Here we go!</title>
-    <url>/2022/01/28/Here-we-go/</url>
-    <content><![CDATA[<p>Herbidog的第一条博客</p>
-<p>欢迎光临</p>
-]]></content>
   </entry>
 </search>
